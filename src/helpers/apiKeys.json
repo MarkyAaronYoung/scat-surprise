@@ -1,0 +1,11 @@
+{
+"firebaseKeys": {
+  "apiKey": "AIzaSyCaReRcXxgD5IkLj3DV_i9l2AW9MUll6oM",
+  "authDomain": "birb-w.firebaseapp.com",
+  "databaseURL": "https://birb-w.firebaseio.com",
+  "projectId": "birb-w",
+  "storageBucket": "birb-w.appspot.com",
+  "messagingSenderId": "821683765389",
+  "appId": "1:821683765389:web:5011f49e4effb40efb22c4"
+  }
+}
